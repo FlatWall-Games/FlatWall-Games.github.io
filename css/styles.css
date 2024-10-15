@@ -11066,3 +11066,8 @@ html {
 .carousel-control-next-icon:background {
     color: white; /* Cambia el color del icono */
 }
+
+.paddingLeftRight {
+    padding-left: 3%;
+    padding-right: 3%;
+}
